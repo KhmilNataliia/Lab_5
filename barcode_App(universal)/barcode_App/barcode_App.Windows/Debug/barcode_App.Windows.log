@@ -1,0 +1,32 @@
+﻿Build started 16.05.2017 14:46:32.
+     1>Project "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Windows\barcode_App.Windows.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Windows\\" /I"Generated Files\\" /IDebug\ /I"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Shared\\" /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"Debug\barcode_App.Windows.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /wd28204 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Shared\pch.cpp"
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Windows\\" /I"Generated Files\\" /IDebug\ /I"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Shared\\" /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\barcode_App.Windows.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /wd28204 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Shared\App.xaml.cpp" MainPage.xaml.cpp "Generated Files\XamlTypeInfo.Impl.g.cpp"
+         App.xaml.cpp
+         MainPage.xaml.cpp
+         XamlTypeInfo.Impl.g.cpp
+       CreateWinMD:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.Windows.exe" /INCREMENTAL /NOLOGO kernel32.lib /MANIFEST:NO /DEBUG /PDB:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.Windows.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD:ONLY /WINMDFILE:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Debug\App.xaml.obj
+         Debug\pch.obj
+         Debug\MainPage.xaml.obj
+         Debug\XamlTypeInfo.Impl.g.obj
+       CompileXamlGeneratedFiles:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Windows\\" /I"Generated Files\\" /IDebug\ /I"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Shared\\" /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\barcode_App.Windows.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4453 /wd28204 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj "Generated Files\XamlTypeInfo.g.cpp"
+         XamlTypeInfo.g.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.Windows.exe" /INCREMENTAL /NOLOGO kernel32.lib /MANIFEST:NO /DEBUG /PDB:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.Windows.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD:NO /WINMDFILE:"C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Debug\App.xaml.obj
+         Debug\pch.obj
+         Debug\MainPage.xaml.obj
+         Debug\XamlTypeInfo.Impl.g.obj
+         Debug\XamlTypeInfo.g.obj
+            Creating library C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.Windows.lib and object C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.Windows.exp
+         barcode_App.Windows.vcxproj -> C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\barcode_App.Windows.exe
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x64\MakePri.exe New -ProjectRoot "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Windows\\" -ConfigXml Debug\priconfig.xml -OutputFile "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\Debug\barcode_App.Windows\resources.pri" -IndexName f798508a-5394-4414-9ffd-b8c63713c506 -Verbose -Overwrite  
+     1>Done Building Project "C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.Windows\barcode_App.Windows.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.51

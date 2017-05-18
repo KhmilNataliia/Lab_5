@@ -1,0 +1,1 @@
+C:\c++_дз\projects\С++_дз\2 курс\2 semestr\лабораторні\barcode_App\barcode_App\barcode_App.WindowsPhone\barcode_App.WindowsPhone.vcxproj;x86
